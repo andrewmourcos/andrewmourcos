@@ -1,4 +1,4 @@
 # Hi, I'm Andrew
 -  :school_satchel: I study Mechatronics Engineering @uWaterloo
--  :briefcase: Former SWE and former ML intern
+-  :briefcase: Former SWE and ML intern
 -  :robot: Interested and actively working in robotics and perception
